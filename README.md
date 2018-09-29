@@ -1,1 +1,1 @@
-# STM32 Basic
+# STM32 Basic code example
